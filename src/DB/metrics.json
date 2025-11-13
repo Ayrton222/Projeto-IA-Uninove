@@ -1,0 +1,35 @@
+{
+    "total_interactions": 7,
+    "topics": {
+        "Como alterar o status de um lead?": {
+            "count": 1,
+            "avg_score": 0.9072690606117249,
+            "correct": 1,
+            "wrong": 0
+        },
+        "Entendendo o Dashboard na prática.": {
+            "count": 2,
+            "avg_score": 0.5512724816799164,
+            "correct": 2,
+            "wrong": 0
+        },
+        "Como cadastrar novos status?": {
+            "count": 2,
+            "avg_score": 0.7143554389476776,
+            "correct": 1,
+            "wrong": 1
+        },
+        "Como editar o lead?": {
+            "count": 1,
+            "avg_score": 0.9634333252906799,
+            "correct": 1,
+            "wrong": 0
+        },
+        "Como cadastrar novos leads?": {
+            "count": 1,
+            "avg_score": 0.8440722227096558,
+            "correct": 0,
+            "wrong": 1
+        }
+    }
+}
