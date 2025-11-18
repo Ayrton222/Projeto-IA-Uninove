@@ -106,7 +106,7 @@ API_KEY=sua_chave_aqui
 ###  1. Clone o projeto
 
 ```
-[git clone https://github.com/seu-repo/we-bot.git](https://github.com/Ayrton222/Projeto-IA-Uninove.git)
+https://github.com/Ayrton222/Projeto-IA-Uninove.git
 ```
 
 ### 2. Crie um ambiente virtual (opcional, recomendado)
